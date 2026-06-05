@@ -3,4 +3,4 @@ for i in range(0, len(x)):
     print(x[i])
 
 if x == x:
-    print("bhai ye kya logic hai")
+    print("roast me plzz")
