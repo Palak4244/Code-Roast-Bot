@@ -12,9 +12,9 @@ Python, Groq LLaMA 3.3, GitHub API
 
 ## Run Locally
 git clone https://github.com/Palak4244/Code-Roast-Bot
-pip install -r requirements.txt
-Add GROQ_API_KEY in .env file
-python main.py
+> pip install -r requirements.txt
+> Add GROQ_API_KEY in .env file
+> python main.py
 
 ## My Story
 Day 0: "pip kya hota hai?"  
